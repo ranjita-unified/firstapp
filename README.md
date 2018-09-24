@@ -1,6 +1,7 @@
 # Grouplearn
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+Download or clone this and run npm install to install the node dependencies.
 
 ## Development server
 
